@@ -1,7 +1,8 @@
 # Awesome Torment Nexus
 
-This repository contains a curated list of resources for creating the Torment Nexus. Please submit a pull request
-if you have more awesome resources to add.
+This repository contains a curated list of resources for creating the Torment Nexus, or stopping it from being
+created. Please submit a pull request if you have more 
+awesome resources to add.
 
 <a href="https://yiff.life/users/koko/statuses/110331798312881669">
 <img src="awesome-torment-nexus.png" height="400">
