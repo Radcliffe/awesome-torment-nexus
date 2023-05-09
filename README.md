@@ -14,4 +14,9 @@ awesome resources to add.
 
 * [Modern tech is treading some serious Torment Nexus territory (PC Gamer)](https://www.pcgamer.com/modern-tech-is-treading-some-serious-torment-nexus-territory/) - New products such as video doorbells and robot vacuum cleaners are collecting intimate personal information.
 
+## Web applications
 
+* [ChatGPT](https://chat.openai.com) - Automated plagiarism at scale.
+
+* [GPTZero](https://gptzero.me/) - False accusations
+of plagiarism at scale.
